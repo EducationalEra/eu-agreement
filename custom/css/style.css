@@ -522,7 +522,7 @@ transition: all 0.8s ease;
 }
 
   .description {
-    position:relative
+    position:relative;
     width: 100%;
     height: 42px;
     margin: -5px auto 10px auto;
@@ -601,7 +601,7 @@ transition: all 0.8s ease;
   border: 1px solid #ffba00;
 }
 
-.book.color-theme-2. btn-knopka:hover {
+.book.color-theme-2 .btn-knopka:hover {
   background: -moz-linear-gradient(top,#fff 0,#ffe6a0 2%,#ffba00 100%);
   background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#FFE48D),color-stop(2%,#FFDE6E),color-stop(100%,#ffba00));
   background: -webkit-linear-gradient(top,#FFE48D 0,#FFDE6E 2%,#ffba00 100%);
