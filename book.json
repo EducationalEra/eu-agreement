@@ -1,7 +1,14 @@
 {
     "gitbook": ">=3.0.0-pre.11",
     "title": "Угода про асоціацію Україна-ЄС",
-    "plugins": ["-search", "fontsettings", "-sharing", "addcssjs", "quiz", "disqus", "-comments", "gtm"],
+    "plugins": ["-search", 
+                "fontsettings", 
+                "-sharing", 
+                "addcssjs", 
+                "quiz", 
+                "disqus", 
+                "-comments",
+                "gtm"],
     "pluginsConfig": {
         "theme-default": {
             "showLevel": true

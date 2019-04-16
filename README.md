@@ -40,14 +40,16 @@
 					<div class="tab-content">
 						<div class="tab-pane active" id="tab_default_1">
 							<p>
-                            <ul class="ul">
-                                <li><a href="1/dates.md">Угода про асоціацію в датах</a></li>
-                                <li><a href="1/law.md">Правова природа Угоди про асоціацію з ЄС</a></li>
-                                <li><a href="1/features.md">Угода про асоціацію між Україною та ЄС та її особливості</a></li>
-                                <li><a href="1/structureOfAgreement.md">Структура Угоди про асоціацію</a></li>
-                                <li><a href="1/acquis.md">Аcquis ЄС</a></li>
-                                <li><a href="1/links.md">Корисні посилання</a></li>
-                            </ul>
+								<ul class="ul">
+									<li><a href="1/intro.md">Вступ</a></li>
+									<li><a href="1/dates.md">Угода про асоціацію в датах</a></li>
+									<li><a href="1/law.md">Правова природа Угоди про асоціацію з ЄС</a></li>
+									<li><a href="1/features.md">Угода про асоціацію між Україною та ЄС та її особливості</a></li>
+									<li><a href="1/structureOfAgreement.md">Структура Угоди про асоціацію</a></li>
+									<li><a href="1/acquis.md">Аcquis ЄС</a></li>
+									<li><a href="1/links.md">Корисні посилання</a></li>
+									<li><a href="1/test.md">Тести</a></li>
+								</ul>
 							</p>
 						</div>
 						<div class="tab-pane" id="tab_default_2">

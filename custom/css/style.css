@@ -1043,7 +1043,7 @@ img {
   margin-top: 0px;
 }
 .tabbable-line > .nav-tabs > li.active {
-  border-bottom: 4px solid #f3565d;
+  border-bottom: 4px solid #FFD702;
   position: relative;
 }
 .tabbable-line > .nav-tabs > li.active > a {
@@ -1079,7 +1079,7 @@ img {
 .tabbable-line.tabs-below > .nav-tabs > li.active {
   margin-bottom: -2px;
   border-bottom: 0;
-  border-top: 4px solid #f3565d;
+  border-top: 4px solid #FFD702;
 }
 .tabbable-line.tabs-below > .tab-content {
   margin-top: -10px;
